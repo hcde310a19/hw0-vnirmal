@@ -1,3 +1,16 @@
 # Description of your program (part 7)
+1. Set a counter at 0.
+2. If the character is a space, then add 1 to the counter.
+3. Move to the next character.
+4. Repeat steps 2-4 until end of text.
 
 # Reflection on writing your program (part 8)
+I think that this exercise was a little easier with a bit of a coding background.
+However, it has been a while since I wrote code so it took a bit to organize my thoughts
+and make sure that there were no loopholes in my instructions.
+
+I think one part that is a little unsatisfying with writing this out in english is that
+I can't test my code with the computer to see if it works.
+
+As for the class, I am hoping to add another language to my toolkit, and hopefully will be
+able to use this skill in industry.
